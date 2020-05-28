@@ -4,7 +4,7 @@ As the SARS-CoV-2 virus begins to spread in African countries, this data-driven 
 
 ## Published story
 
-The URL for the story published on the basis of this analysis will be appended here.
+Read the story published on the basis of this analysis at [DW.com](https://www.dw.com/en/coronavirus-in-africa-how-deadly-could-covid-19-become/a-53230519).
 
 ## Research and briefing papers reviewed
 
@@ -41,6 +41,8 @@ Nkengasong & Mankoula [Link to study](https://doi.org/10.1016/S0140-6736(20)3046
 
 ## Source data
 
+Figures for hospital beds per 10,000 inhabitants for Italy and UK were sourced from the [World Health Organization](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hospital-beds-(per-10-000-population). For other countries, see spreadsheet below.
+
 The following data files are incuded in the `data/in` directory.
 
 `Africa CDC Summary of Travel Restrictions and Physical Distancing Measures Implemented by Member States and COVID-19 Guidance and Resources.xlsx`
@@ -53,6 +55,7 @@ Source: Manually compiled from various sources - see file
 `Imperial-College-COVID19-Global-unmitigated-mitigated-suppression-scenarios.xlsx`
 Source: Walker, Whittaker, Watson et al (ibid.) [Download link](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Global-unmitigated-mitigated-suppression-scenarios.xlsx)
 
+The Imperial College paper presents three scenarios reflecting assumptions for R0. For the purpose of the story, R0 = 2.4 scenario was selected as the most conservative (i.e. fewest infections) of the three scenarios.
 
 ## Output data
 
